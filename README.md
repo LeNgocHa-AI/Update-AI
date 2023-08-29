@@ -1,7 +1,7 @@
 # Update-AI
 Python code for make simple AI
 
-Although many errors have been fixed, AI can still give wrong results because the training data is too small and too complex, if it gives wrong results, you can give more information to AI  mine may give more accurate results.
+Although many errors have been fixed, AI can still give wrong results because the training data is too small and too complex, if it gives wrong results, you can give more information to AI may give more accurate results.
 
 For example: H2SO4 → substance H2SO4
 
